@@ -1,0 +1,1 @@
+(()=>{"use strict";new class{constructor(s=[]){this.tasks=s}dump(){console.log(this.tasks)}}(["1","2","3"]).dump()})();
